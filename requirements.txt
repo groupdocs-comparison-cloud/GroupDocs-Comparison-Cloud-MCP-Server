@@ -1,0 +1,3 @@
+mcp
+groupdocs-comparison-cloud
+pydantic
